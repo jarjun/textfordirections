@@ -12,9 +12,12 @@ Uses virtualenv and Flask to push to heroku.
 
 Dependencies (check requirements.txt):
 
-pip install Flask gunicorn \n
-pip install googlemaps \n
-pip install requests \n
-pip install twilio \n
+pip install Flask gunicorn
+
+pip install googlemaps
+
+pip install requests
+
+pip install twilio
 
 Made in collaboration with Chris Bernt
