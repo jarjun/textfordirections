@@ -7,3 +7,5 @@ Takes in your current location and a type of place you want to find (e.g. restau
 Responds with the nearest location and the directions.
 
 Useful for people without smart phones and when without a data connections, uses normal SMS.
+
+Made in collaboration with Chris Bernt
