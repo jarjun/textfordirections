@@ -20,4 +20,8 @@ pip install requests
 
 pip install twilio
 
+
+To use add "http://textfordirections.herokuapp.com/" as an app on a Twilio number.
+
+
 Made in collaboration with Chris Bernt
